@@ -63,11 +63,6 @@ The solution involved:
 [See FLAG.txt]
 ```
 
-Detailed analysis:
-
-* [`walkthrough.md`](prelims-rev-reverse404/walkthrough.md)
-* [`walkthrough.pdf`](prelims-rev-reverse404/walkthrough.pdf)
-
 ---
 
 ### 2. `quay-index`
@@ -109,11 +104,6 @@ Privilege escalation
 [See FLAG.txt]
 ```
 
-Detailed analysis:
-
-* [`walkthrough.md`](quay-index/walkthrough.md)
-* [`walkthrough.pdf`](quay-index/walkthrough.pdf)
-
 ---
 
 ### 3. `zz-EXAMPLE-ret2win`
@@ -142,11 +132,6 @@ The exploit redirects execution to the existing `win()` function rather than inj
 ```text
 [See FLAG.txt]
 ```
-
-Detailed analysis:
-
-* [`walkthrough.md`](zz-EXAMPLE-ret2win/walkthrough.md)
-* [`walkthrough.pdf`](zz-EXAMPLE-ret2win/walkthrough.pdf)
 
 ---
 
