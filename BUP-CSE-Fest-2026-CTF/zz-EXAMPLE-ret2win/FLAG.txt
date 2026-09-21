@@ -1,1 +1,0 @@
-FLAG{selftest_pwn_ret2win_works}
